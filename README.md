@@ -1,1 +1,3 @@
 # 3Musketeers
+
+We are aiming at providing Rescue Button at every house that will immediately direct the Quad Copters to move to respective location and provide them with necessaryy equipments like floating jackets and air-filled boats during flood situation. Also this information will be updated on a platform which will be an APP where Volunteers can co-operate and collaborate during the state of emergency and based on their location move forward to respective affected region. We are planning to centralize  the Relief Camps management so that people can easily find nearest relief camps for shelter and getting necessary treatment.
